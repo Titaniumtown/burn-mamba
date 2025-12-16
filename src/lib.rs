@@ -1,6 +1,5 @@
 #![allow(incomplete_features)]
 #![feature(generic_const_exprs)]
-#![feature(f16)]
 
 #[cfg(feature = "mamba1")]
 pub mod mamba1;
